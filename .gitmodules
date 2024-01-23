@@ -1,0 +1,9 @@
+[submodule "rAversIde-Automation"]
+	path = rAversIde-Automation
+	url = https://github.com/EstebanbanC/rAversIde-Automation
+[submodule "rAversIde-Client"]
+	path = rAversIde-Client
+	url = https://github.com/EstebanbanC/rAversIde-Client
+[submodule "rAversIde-Server"]
+	path = rAversIde-Server
+	url = https://github.com/EstebanbanC/rAversIde-Server
