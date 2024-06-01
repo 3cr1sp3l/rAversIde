@@ -6,15 +6,14 @@ Welcome to the Raverside Plugin for Ghidra. This plugin enhances your Ghidra exp
 
 ## Table of Contents
 
-1. [Installation](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-2. [Setup](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-3. [Features](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-    - [Analysis](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-    - [Rename](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-    - [Chatbot](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-4. [Getting an API Key](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-5. [Troubleshooting](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
-6. [Support](https://www.notion.so/ReadMe-Plugin-51e91c61456a4611854dc73c145c1e17?pvs=21)
+1. [Installation](#installation)
+2. [Setup](#setup)
+3. [Features](#features)
+    - [Analysis](#analysis)
+    - [Rename](#rename)
+    - [Chatbot](#chatbot)
+4. [Getting an API Key](#getting-an-api-key)
+5. [Troubleshooting](#troubleshooting)
 
 ## Installation
 
