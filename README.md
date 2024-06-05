@@ -10,7 +10,7 @@ This repository contains three main components:
 
 1. **Plugin**: The RAverSIde plugin for Ghidra.
 2. **Server**: The backend server that supports the plugin.
-3. **AI Test Site**: A web interface for testing AI functionalities. [Available here](https://github.com/AyRickk/Raverside-Test) https://github.com/AyRickk/Raverside-Test
+3. **AI Test Site**: A web interface for testing AI functionalities. [Available here](https://github.com/AyRickk/Raverside-Test/).
 
 ## Features
 
