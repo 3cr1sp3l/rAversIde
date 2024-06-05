@@ -26,7 +26,7 @@ RAverSIde offers a suite of features, all utilizing AI to enhance the reverse en
 
 To install the RAverSIde Plugin, follow these steps:
 
-1. **Download the Plugin**: (Obtain the ZIP file containing the RAverSIde plugin.)[https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0]
+1. **Download the Plugin**: [Obtain the ZIP file containing the RAverSIde plugin.](https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0)
 2. **Open Ghidra**: Launch Ghidra.
 3. **Install the Extension**:
     - Navigate to `File` > `Install Extensions`.
