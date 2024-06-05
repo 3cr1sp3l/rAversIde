@@ -1,0 +1,5 @@
+chromadb
+flask
+llama-index
+llama-index-embeddings-jinaai
+llama-index-llms-openai

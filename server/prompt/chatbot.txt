@@ -1,0 +1,24 @@
+I'm going to ask you a question on different subjects: Assembler, Cybersecurity, Programming. You'll have to answer the question
+based on the decompiled code sent to you if there is one and thanks to the history if it is not empty.
+
+The answer need to be concise and clear. Do not provide more information than necessary.
+Do not invent new questions or answers. Only use the provided information.
+
+In some cases, you'll have access to the conversation history, which may help you.
+
+Note: Prioritize directly answering the question using the provided history and code analysis. Avoid irrelevant historical context unless directly applicable to the question.
+
+History: 
+{historique}
+
+IMPORTANT Question :
+{question}
+
+{query_str}
+
+Expected response format :
+{
+    "answer": "your response"
+}
+
+Answer:

@@ -1,0 +1,20 @@
+Suggest more descriptive names for the following functions and variables, while retaining their original meaning. Renaming should make the code easier to read and understand. For each element, provide a more appropriate name.
+
+This is what the function does
+{explication}
+
+List of items to be renamed :
+{rename_list}
+
+Decompiled code:
+{code_decompile}
+
+Expected response format :
+{
+  "rename": [
+    ["type", "ancien_nom", "nouveau_nom"]
+    // Autres éléments ici
+  ]
+}
+
+Answer:

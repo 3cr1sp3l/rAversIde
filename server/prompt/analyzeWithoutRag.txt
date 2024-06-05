@@ -1,0 +1,30 @@
+examine the decompiled code to determine its security status. Consider that the code may contain vulnerabilities, or it might be secure with no issues. 
+
+For each segment of code analyzed:
+
+   1. Identify the type of vulnerability, if any, using the CWE (Common Weakness Enumeration) number.
+   2. Comment on the vulnerability by explaining its nature and location in the code.
+   3. If no vulnerabilities are detected, clearly state this outcome.
+
+Structure your response in JSON format:
+
+{
+  "comment": [
+    ["scanf(%s, name);", "CWE-number", "la description de ma vulnérabilité"],
+    ["line_of_code", "CWE-number", "explanation"]
+  ]
+}
+
+
+If the code is secure and contains no vulnerabilities, your response should clearly reflect this:
+
+{
+  "comment": "No vulnerabilities detected."
+}
+
+Provide a concise and accurate analysis. Do not assume vulnerabilities where none exist, and ensure your analysis is precise and supported by the context.
+
+Query: "{{code}}"
+
+Answer only with the json, no other comments, answer need to be short:
+Answer:
