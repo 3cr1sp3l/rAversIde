@@ -1,5 +1,8 @@
 # RAverSIde: AI-Powered Reverse Engineering Assistant
 
+
+### [Build of the plugn available here !](https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0)
+
 ## Introduction
 
 Welcome to the RAverSIde GitHub repository! RAverSIde is an AI-powered assistant designed to revolutionize the reverse engineering process by integrating seamlessly with the well-known Ghidra application. By leveraging artificial intelligence, RAverSIde transforms the traditionally complex process of reverse engineering into a smooth, efficient, and more precise experience.
