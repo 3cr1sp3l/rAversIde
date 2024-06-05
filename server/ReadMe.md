@@ -13,7 +13,7 @@ Welcome to the RAversIde Server! This server powers the RAversIde Plugin for Ghi
 
 ## Hosted Server
 
-The RAversIde Server is already hosted and ready for use at [raverside-server.aymeric-daniel.com](http://raverside-server.aymeric-daniel.com/). The RAversIde Plugin is automatically connected to this endpoint.
+The RAversIde Server is already hosted and ready for use at [raverside-server.aymeric-daniel.com](https://raverside-server.aymeric-daniel.com/). The RAversIde Plugin is automatically connected to this endpoint.
 
 ## Docker Container
 
@@ -70,6 +70,6 @@ This will start the server locally, allowing you to make and test changes as nee
 
 Once the server is running, whether hosted, in a Docker container, or locally, it will listen for requests from the RAversIde Plugin for Ghidra. Ensure that your plugin is configured to communicate with the correct server endpoint.
 
-- **Hosted Server**: `http://raverside-server.aymeric-daniel.com`
+- **Hosted Server**: `https://raverside-server.aymeric-daniel.com`
 - **Docker Container**: `http://localhost:5001` (or the port you configured)
 - **Local Development**: `http://localhost:5001` (or the port you configured)
