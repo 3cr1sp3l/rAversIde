@@ -1,7 +1,7 @@
 # RAverSIde: AI-Powered Reverse Engineering Assistant
 
 
-### [Build of the plugn available here !](https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0)
+### [Build of the plugin available here !](https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0)
 
 ## Introduction
 
