@@ -59,3 +59,11 @@ RAverSIde is composed of a Java-based plugin for Ghidra, which communicates with
 ---
 
 Thank you for using RAverSIde. We hope this tool significantly enhances your reverse engineering workflow. Happy reversing!
+
+--- 
+
+# Contributors
+[Esteban CRISPEL (3cr1sp3l)](https://github.com/3cr1sp3l)
+[Aymeric DANIEL (AyRickk)](https://github.com/AyRickk)
+[Baptiste DEVAUX (Brazok)](https://github.com/Brazok)
+[Anthony VOLPELLIERE (yolker123)](https://github.com/yolker123)
