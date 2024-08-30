@@ -42,13 +42,13 @@ For those interested in modifying the server code and running it locally, follow
 1. **Clone the Repository**:
     
     ```bash
-    git clone https://github.com/aymeric-daniel/raverside-server.git
+    git clone https://github.com/3cr1sp3l/rAversIde.git
     ```
     
 2. **Navigate to the Server Directory**:
     
     ```bash
-    cd raverside-server
+    cd rAversIde/server
     ```
     
 3. **Install the Required Dependencies**:
