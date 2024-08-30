@@ -13,7 +13,6 @@ This repository contains three main components:
 
 1. **Plugin**: The RAverSIde plugin for Ghidra.
 2. **Server**: The backend server that supports the plugin.
-3. **AI Test Site**: A web interface for testing AI functionalities. [Available here](https://github.com/AyRickk/Raverside-Test/).
 
 ## Features
 
@@ -48,9 +47,6 @@ Ensure your RAverSIde Plugin is configured to communicate with the correct serve
 - **Hosted Server**: `https://raverside-server.aymeric-daniel.com`
 - **Docker/Local Server**: `http://localhost:5001`
 
-## AI Test Site
-
-The AI test site provides a web interface for testing various AI functionalities integrated into RAverSIde. It allows users to experiment with different prompts and see the AI's responses in real-time, facilitating better understanding and fine-tuning of the system.
 
 ## How RAverSIde Works
 
