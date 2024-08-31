@@ -3,6 +3,16 @@
 
 ### [Build of the plugin available here !](https://github.com/EstebanbanC/rAversIde/releases/tag/v1.0)
 
+
+### ⚠️ Important Update: Jina AI API Changes
+
+We want to inform you that Jina AI has recently made significant changes to its API. Due to these updates, our server is currently **non-functional**.
+
+We understand the importance of maintaining a stable and reliable service, and our team is actively working on implementing a patch to adapt our application to the new API specifications.
+
+We appreciate your patience and understanding during this transition period. A patch will be released soon to restore the server’s functionality.
+
+
 ## Introduction
 
 Welcome to the RAverSIde GitHub repository! RAverSIde is an AI-powered assistant designed to revolutionize the reverse engineering process by integrating seamlessly with the well-known Ghidra application. By leveraging artificial intelligence, RAverSIde transforms the traditionally complex process of reverse engineering into a smooth, efficient, and more precise experience.
